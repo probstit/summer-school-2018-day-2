@@ -1,0 +1,1 @@
+alert('Our website rocks.');
